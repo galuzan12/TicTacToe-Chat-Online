@@ -1,0 +1,27 @@
+.gamePage{
+    height: 100vh;
+    width: auto;
+    margin: 0 !important;
+}
+.game{
+    background-color: rgba(161, 210, 255, 0.575);
+}
+.chat{
+    background-color: rgba(161, 210, 255, 0.575);
+}
+.gameOverDiv{
+    background-color: rgba(0, 0, 0, 0.658);
+    position: absolute !important; 
+    z-index: 5;
+    height: 100vh;
+    
+}
+.newGameBtn{
+    margin: auto;
+    background-color:  rgb(255, 161, 213) !important;
+    border:none !important;
+}
+.newGameBtn:hover{
+    /* background-color:  rgb(243, 107, 182) !important; */
+    text-decoration: underline solid rgb(202, 20, 120) !important;
+}

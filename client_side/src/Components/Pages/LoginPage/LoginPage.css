@@ -1,0 +1,19 @@
+.loginPage{
+    /* background-color: rgba(134, 130, 130, 0.384);
+    background-image: url('/backgroundImg.jpg');
+     */
+}
+.loginBox{
+    background-color: rgba(58, 57, 57, 0.349);
+    margin: auto;
+    border: 4px solid rgb(157, 235, 255);
+    padding: 2%;
+    
+}
+.connectBtn{
+    /* background-color:rgb(157, 235, 255) !important; */
+    background: rgb(157,235,255);
+    background: linear-gradient(315deg, rgba(157,235,255,1) 34%, rgba(0,212,255,1) 100%);
+    border:none !important;
+    color:rgb(81, 122, 155) !important;
+}

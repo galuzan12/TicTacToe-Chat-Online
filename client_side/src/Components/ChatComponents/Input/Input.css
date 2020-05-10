@@ -1,0 +1,37 @@
+.inputChat{
+    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+}
+.messageText{
+    border: none !important;
+    border-radius: 0px !important;
+    background-color:  rgba(255, 255, 255, 0.486) !important;
+}
+.btnChat{
+    background-color:  rgb(104, 190, 211) !important;
+    border: none !important;
+}
+.messageText:focus , .btnChat:focus{
+    outline:0px !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+}
+.sendMesInputDiv{
+    position: relative !important;
+    bottom: 2vh;
+    left: 1vh;
+    
+    
+   
+}
+.MdSend{
+    transform: rotate(180deg);
+}
+.mp0{
+    padding: 0px;
+    margin:0px;
+}
